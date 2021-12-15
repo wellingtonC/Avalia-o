@@ -1,0 +1,12 @@
+C:\Users\wellf\Downloads\t2\t2-master\Teste2\bin\Debug\netcoreapp3.1\Teste2.exe
+C:\Users\wellf\Downloads\t2\t2-master\Teste2\bin\Debug\netcoreapp3.1\Teste2.deps.json
+C:\Users\wellf\Downloads\t2\t2-master\Teste2\bin\Debug\netcoreapp3.1\Teste2.runtimeconfig.json
+C:\Users\wellf\Downloads\t2\t2-master\Teste2\bin\Debug\netcoreapp3.1\Teste2.runtimeconfig.dev.json
+C:\Users\wellf\Downloads\t2\t2-master\Teste2\bin\Debug\netcoreapp3.1\Teste2.dll
+C:\Users\wellf\Downloads\t2\t2-master\Teste2\bin\Debug\netcoreapp3.1\Teste2.pdb
+C:\Users\wellf\Downloads\t2\t2-master\Teste2\obj\Debug\netcoreapp3.1\Teste2.AssemblyInfoInputs.cache
+C:\Users\wellf\Downloads\t2\t2-master\Teste2\obj\Debug\netcoreapp3.1\Teste2.AssemblyInfo.cs
+C:\Users\wellf\Downloads\t2\t2-master\Teste2\obj\Debug\netcoreapp3.1\Teste2.csproj.CoreCompileInputs.cache
+C:\Users\wellf\Downloads\t2\t2-master\Teste2\obj\Debug\netcoreapp3.1\Teste2.dll
+C:\Users\wellf\Downloads\t2\t2-master\Teste2\obj\Debug\netcoreapp3.1\Teste2.pdb
+C:\Users\wellf\Downloads\t2\t2-master\Teste2\obj\Debug\netcoreapp3.1\Teste2.genruntimeconfig.cache
